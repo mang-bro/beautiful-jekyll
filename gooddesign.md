@@ -2,7 +2,7 @@
 layout: page
 title: Good Design
 subtitle: Good Design at Williams College
-bigimg: /img/bookstore.jpg
+bigimg: /img/cow.png
 ---
 
 My name is Inigo Montoya. I have the following qualities:

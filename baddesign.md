@@ -2,6 +2,7 @@
 layout: page
 title: Bad Design
 subtitle: Bad Design at Williams College
+bigimg: /img/bookstore.png
 ---
 
 My name is Inigo Montoya. I have the following qualities:

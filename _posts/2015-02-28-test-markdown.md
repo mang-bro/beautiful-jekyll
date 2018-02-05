@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home
-subtitle: idk
+subtitle: CS 376
 ---
 
 Some cool design stuff I guess.

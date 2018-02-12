@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Proposal
-subtitle: Local Art Discovery App
+subtitle: Local Art Community App
 bigimg: /img/art_graphic.jpg
 ---
 MOTIVATION

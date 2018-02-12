@@ -16,4 +16,5 @@ SIMILAR WORKS
 
 There is currently a mobile app called Trill (sample images in Fig. 1). It works as a local art discovery app, but only cater towards the discovery part. It does not really include a community space for any artists, but instead shows events and recent art made. 
 
-![Figure 1](/img/trill.jpg){:class="img-responsive"}
+![Figure 1](/img/trill.jpg)
+Figure 1

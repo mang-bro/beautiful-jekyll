@@ -17,7 +17,7 @@ Additionally, because I was performing this task with a team instead of just mys
 
 The second design activity that proved essential for the design of a2a was task-based design. Supported by scenarios and use cases, tasks became an excellent way for our team to systematically break down the design work needed for our platform. Because our platform’s main objective is to support a creative community, the details of what that design actual should entail felt very vague. Using insights gleaned from affinity diagramming, our team was able to construct realistic scenarios of how our app would be used and define and prioritize key tasks to concentrate on. Fig. 2 shows one of the scenarios we envisioned for the app. 
 
-![Fig. 2](/img/combined.png)
+![Fig. 2](/img/scenario.png)
 *Figure 2*
 
 
@@ -25,7 +25,7 @@ This scenario is almost a direct design response to the theme that was identifie
 
 One of the final stages of design before user testing is heuristic evaluations. Heuristic design is a great tool in general because it provides a systematic method for evaluating a design, and the process of evaluation is incredibly clear and thorough. It also catches design mistakes that can could be costly during user testing. For a2a, heuristic evaluations proved to be invaluable to our design. From just three heuristic evaluations, we were able to identify problems with our workflows because of missing back buttons (violation of User Control and Freedom), confusing wording (violation of Match between system and real world), and confusing use of icons (violation of consistency and standards). 
 
-![Fig. 3](/img/scenario.png)
+![Fig. 3](/img/combined.png)
 *Figure 3*
 
 

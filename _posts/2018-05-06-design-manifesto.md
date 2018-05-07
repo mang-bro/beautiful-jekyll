@@ -11,18 +11,24 @@ The first design activity that really struck me during this semester was the aff
 
 ![Fig. 1](/img/affinity_diagram.jpg)
 *Figure 1*
+
+
 Additionally, because I was performing this task with a team instead of just myself, we could easily check each other for biases. This additional layer revealed to me the importance of having multiple people involved in the design process. Although it is not always feasible to have a design team with multiple people, the design process feels most productive when there are multiple people involved. 
 
 The second design activity that proved essential for the design of a2a was task-based design. Supported by scenarios and use cases, tasks became an excellent way for our team to systematically break down the design work needed for our platform. Because our platform’s main objective is to support a creative community, the details of what that design actual should entail felt very vague. Using insights gleaned from affinity diagramming, our team was able to construct realistic scenarios of how our app would be used and define and prioritize key tasks to concentrate on. Fig. 2 shows one of the scenarios we envisioned for the app. 
 
 ![Fig. 2](/img/combined.png)
 *Figure 2*
+
+
 This scenario is almost a direct design response to the theme that was identified by Fig. 1 in affinity diagramming: event discovery. Having concrete tasks to focus the design on was great for our team because it gave us direction, and we had robust data and analysis to justify why and what we were designing for. For us, scenarios and tasks were used for a basis for overall design and as a means of cooperation within our design team, two out of four roles scenarios can be used for identified by Bødker. 
 
 One of the final stages of design before user testing is heuristic evaluations. Heuristic design is a great tool in general because it provides a systematic method for evaluating a design, and the process of evaluation is incredibly clear and thorough. It also catches design mistakes that can could be costly during user testing. For a2a, heuristic evaluations proved to be invaluable to our design. From just three heuristic evaluations, we were able to identify problems with our workflows because of missing back buttons (violation of User Control and Freedom), confusing wording (violation of Match between system and real world), and confusing use of icons (violation of consistency and standards). 
 
 ![Fig. 3](/img/scenario.png)
 *Figure 3*
+
+
 Fig. 3 shows a side by side of the Upload Work workflow of our paper prototype, shown as before and after heuristic evaluations. The wording from the ‘Choose method’ menu was confusing, according to the heuristic evaluation, so we simplified the language to make the workflow as clear as possible. 
 
 This class was one of the first times my ability privilege was attacked because I have never considered accessibility when designing a product. Thus, the accessibility readings for this class were rather enlightening and forced me to think about how disabled users can interact with interfaces. I really enjoyed our class about accessibility as well as the screen reading examples were both humorous and informational. Thinking about accessibility made our team think about our design process for a2a in a completely different angle. Because one of the main features of our product is being able to discovery and see visual art, visuals play a huge role in our app. Designing an app that is so highly saturated with visuals while taking into consideration sight disability has proven an interesting challenge for our team. So far, our team has not come up with a clear design solution for disabled users, but designing for full-accessibility has become a pillar in our design process. 
